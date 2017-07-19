@@ -1,0 +1,25 @@
+{
+  "name": "async-thread",
+  "version": "1.0.0",
+  "description": "Asynchronous JavaScript execution allowing multithreading",
+  "main": "AynscThread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanDelcros/Async-Thread.git"
+  },
+  "keywords": [
+    "multithreading",
+    "asynchronous",
+    "worker",
+    "javascript"
+  ],
+  "author": "Jordan Delcros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JordanDelcros/Async-Thread/issues"
+  },
+  "homepage": "https://github.com/JordanDelcros/Async-Thread#readme"
+}
