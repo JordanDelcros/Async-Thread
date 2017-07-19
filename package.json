@@ -1,6 +1,6 @@
 {
   "name": "async-thread",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Asynchronous JavaScript execution allowing multithreading",
   "main": "AynscThread.js",
   "scripts": {
